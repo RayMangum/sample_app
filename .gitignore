@@ -17,3 +17,11 @@
 
 # Ignore ctags file
 tags
+
+# Ignore other uneeded files
+database.yml
+doc/
+*~
+.project
+.idea
+.secret
